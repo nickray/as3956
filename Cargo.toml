@@ -1,0 +1,11 @@
+[package]
+name = "as3956"
+version = "0.0.0"
+authors = ["Nicolas Stalder <n@stalder.io>"]
+edition = "2018"
+description = "Driver for the ams AS3956 NFC Sensor Interface Tag IC"
+license = "Apache-2.0 OR MIT"
+keywords = ["no-std", "ams", "embedded-hal-driver"]
+repository = "https://github.com/nickray/as3956"
+
+[dependencies]
